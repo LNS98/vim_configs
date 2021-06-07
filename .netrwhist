@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/lorenzoniccolini/Documents/tutorials-projects/misc/sports-betting/modelling'
+let g:netrw_dirhist_8='/Users/lorenzoniccolini/Documents/dRISK/unity_simulator/OpenScenario/Catalogs/dRISK_Unity/PedestrianCatalogs'
+let g:netrw_dirhist_7='/Users/lorenzoniccolini/Documents/dRISK/knowledge_graph/knowledge_graph/processing'
+let g:netrw_dirhist_6='/Users/lorenzoniccolini/Documents/dRISK/knowledge_graph/tests/tmp_files'
+let g:netrw_dirhist_5='/Users/lorenzoniccolini/Documents/dRISK/knowledge_graph/knowledge_graph/notebooks'
+let g:netrw_dirhist_4='/Users/lorenzoniccolini/Documents/tutorials-projects/misc/sports-betting/modelling'
+let g:netrw_dirhist_3='/Users/lorenzoniccolini/Documents/tutorials-projects/misc/sports-betting/tests'
+let g:netrw_dirhist_2='/Users/lorenzoniccolini/Documents/dRISK/object_detection_on_edge_cases/test_ECKG'
+let g:netrw_dirhist_1='/Users/lorenzoniccolini/Documents/tutorials-projects/misc/sports-betting/pre-processing'
+let g:netrw_dirhist_0='/Users/lorenzoniccolini/Documents/tutorials-projects/misc/sports-betting'
